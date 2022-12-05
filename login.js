@@ -27,7 +27,7 @@
       }
 
       function logintest(){
-        window.location.href = "landingpage.html";
+        window.location.href = "index.html";
     }
      
      

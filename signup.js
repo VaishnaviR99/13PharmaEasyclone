@@ -35,6 +35,6 @@ function signup(e) {
  }
 
  function signtest(){
-  window.location.href = "landingpage.html";
+  window.location.href = "login.html";
 }
 
