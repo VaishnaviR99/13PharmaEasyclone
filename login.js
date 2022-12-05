@@ -18,12 +18,17 @@
          alert("Fill all details");
          } else if(username == data. username && pass == data.password) { 
           alert("Loged in sucesssull...!!!");
+          logintest();
         }else{ 
           alert( "Wrong password....!!!");
         }
 
        
       }
+
+      function logintest(){
+        window.location.href = "landingpage.html";
+    }
      
      
      

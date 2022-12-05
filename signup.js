@@ -28,8 +28,13 @@ function signup(e) {
          }
          else if(pass===cpass){
           alert("Account created succesfully...!!!");
+          signtest();
          }
          
          
  }
+
+ function signtest(){
+  window.location.href = "landingpage.html";
+}
 
